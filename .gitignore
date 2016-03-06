@@ -1,0 +1,25 @@
+*.auth
+
+.gradle/
+build/
+db/
+*.class
+*.log
+*.settings.xml
+
+# Eclipse
+.classpath
+.project
+.settings/
+.externalToolBuilders/
+bin/
+
+# IDEA
+*.iml
+*.ipr
+*.iws
+.idea/
+out/
+
+hs_err_pid*
+_ignore*
